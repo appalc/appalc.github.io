@@ -1,0 +1,57 @@
+/*Selector {
+    Property:value;
+}
+*/
+
+/*
+ul {
+    text-align: center
+}
+li{
+    list-style: none;
+    display: inline-block;
+    text-align: center
+}
+
+h1 {
+    color: black;
+    font-size: x-large;
+    text-align: center;
+}
+h2 {
+    color: grey;
+    font-size: large;
+ }
+img {
+    max-width: 100%;
+    height: auto;
+
+}
+.pagebox {
+    display:flex;
+    flex-wrap: wrap;
+    background-color: white;
+    border: 3px solid blue;
+}
+*/
+.jumbotron {
+    
+    background-image: url("F2Flogo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%,contain, cover;
+    background-blend-mode: overlay;
+
+}
+
+/*
+.formbox{
+    justify-content: left;
+}
+
+
+.imgdisplay {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+*/
